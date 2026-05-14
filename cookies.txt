@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+documentary-echo.preview.emergentagent.com	TRUE	/	FALSE	1999999999	__cf_bm	Rnb6xtAAV4O33CU.g9lM6HOBKGZlC7kgk1rLGdHydOs-1778762321.645572-1.0.1.1-erLTW8HZ01nnD0rHg_EbiirBpdpNshMB662QejiHW0FCe84pHQhaqbaRngyk3myXzx8emHD59P6AwtoJGzPMX.emaBB0H7DRHQYuoQq5Iw0liNo2l.YU9FH82tjAJak_
+preview.emergentagent.com	TRUE	/	FALSE	1999999999	SameSite	None
+
